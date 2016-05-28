@@ -1,5 +1,5 @@
 # World Universities
-### A complete list of tertiary institutions in the world
+A complete list of tertiary institutions in the world
 
 
 ## Contributing guidline
